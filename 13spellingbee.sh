@@ -1,0 +1,1 @@
+gunzip -c dictionary.gz | grep -E "^[arizonc]{4,}$" | grep r

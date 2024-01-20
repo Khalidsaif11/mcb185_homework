@@ -1,0 +1,14 @@
+Wed Jan 17 20:13:12 PST 2024
+User: khali
+home: /home/khali
+shell: /bin/bash
+pwd: /home/khali/Code/mcb185_homework
+path: /usr/local/bin:/usr/bin:/cygdrive/c/Program Files (x86)/Intel/iCLS Client:/cygdrive/c/Program Files/Intel/iCLS Client:/cygdrive/c/WINDOWS/system32:/cygdrive/c/WINDOWS:/cygdrive/c/WINDOWS/System32/Wbem:/cygdrive/c/WINDOWS/System32/WindowsPowerShell/v1.0:/cygdrive/c/Program Files/Intel/WiFi/bin:/cygdrive/c/Program Files/Common Files/Intel/WirelessCommon:/cygdrive/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/DAL:/cygdrive/c/Program Files/Intel/Intel(R) Management Engine Components/DAL:/cygdrive/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/IPT:/cygdrive/c/Program Files/Intel/Intel(R) Management Engine Components/IPT:/cygdrive/c/WINDOWS/System32/OpenSSH:/cygdrive/c/Program Files (x86)/Pulse Secure/VC142.CRT/X64:/cygdrive/c/Program Files (x86)/Pulse Secure/VC142.CRT/X86:/cygdrive/c/Program Files (x86)/Common Files/Pulse Secure/TNC Client Plugin:/cygdrive/c/Users/khali/AppData/Local/Microsoft/WindowsApps:/cygdrive/c/Users/khali/AppData/Roaming/TinyTeX/bin/win32
+CYGWIN_NT-10.0-19045 DESKTOP-SSNGCLQ 3.4.10-1.x86_64 2023-11-29 12:12 UTC x86_64 Cygwin
+Python 3.9.16
+/home/khali/Code
+/home/khali/Code/MCB185
+/home/khali/Code/MCB185/.git
+/home/khali/Code/MCB185/data
+/home/khali/Code/mcb185_homework
+/home/khali/Code/mcb185_homework/.git
