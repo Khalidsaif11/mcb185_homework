@@ -2,14 +2,13 @@
 
 
 def accuracy_f1(tp, fp, tn, fn):				#accuracy and F1 score
-	accuracy = (tp + tn)/ (tp + fp + tn + fn)
+	accuracy  = (tp + tn)/ (tp + fp + tn + fn)
 	precision = tp / (tp + fp)
-	recall = tp / (tp + fn)
-	f1_score = 2 * (precision * recall) / (precision + recall)
+	recall	  = tp / (tp + fn)
+	f1_score  = 2 * (precision * recall) / (precision + recall)
 	assert(tp + fp + tn + fn > 0)
 	assert(precision + recall > 0)
 	assert(tp + fp > 0)
-	
 	return accuracy, f1_score
 
 # Testing the formula

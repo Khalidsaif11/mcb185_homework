@@ -208,13 +208,13 @@ a = 1							#testing unequal types
 s = 'G'
 if a < s: print('a < s')
 
-def pythagoras(a, b):
+def pythagoras(a, b):			#assertion tryout
 	assert(a > 0)
 	assert(b > 0)
 	return math.sqrt(a**2 + b**2)
 print(pythagoras(-1, 1))
 
-def pythagoras(a, b):
+def pythagoras(a, b):			#sys tryout
 	if a <= 0: sys.exit('error: a must be greater than 0')
 	if b <= 0: sys.exit('error: b must be greater than 0')
 	return math.sqrt(a**2 + b**2)

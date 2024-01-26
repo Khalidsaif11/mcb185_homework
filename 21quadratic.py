@@ -10,6 +10,3 @@ def quadratic_formula(a, b, c):			#quadratic formula
 print(quadratic_formula(4, 16, 5))
 print(quadratic_formula(8, 30, 11))
 print(quadratic_formula(10, 2, 5))		#negative under root tryout
-
-
-x1, x2 = quadratic_formula(10, 12, 11)
