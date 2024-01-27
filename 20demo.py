@@ -104,7 +104,7 @@ print(distance(4, 3, 5, 4))
 def midpoint(x1, y1, x2, y2):	#midpoint computation
 	x = (x1 + x2) / 2
 	y = (y1 + y2) / 2
-	return (x,y)
+	return x,y
 print(midpoint(3, 6, 1, 2))
 
 
