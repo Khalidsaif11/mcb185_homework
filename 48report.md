@@ -35,12 +35,12 @@ then, we put several conditions that drops the lowest score,
 
 for result, we got :
 
-|rules|   |avg stat|
-|:---:|   |:------:|
-|3D6  |   |10.4623 |
-|3D6r1|   |11.7803 |
-|3D6x2|   |13.4    |
-|4D6d1|   |12.2574 |
+| rules   | avg stat |
+| :-----: | :------: |
+| 3D6     | 10.4623  |
+| 3D6r1   | 11.7803  |
+| 3D6x2   | 13.4     |
+| 4D6d1   | 12.2574  |
 
 this is close enough to the expected estimation. we use the <\t> in 
 			the print statement to make our output look like a table and organized.
@@ -73,25 +73,25 @@ we also put a print statement before each outer loop to
 
 our result was:
 
-|DC |      | adv |
-|:-:|      |:---:|
-| 5 |      |0.968|
-|10 |      |0.798|
-|15 |      |0.506|
+| DC     | adv    |
+| :----: | :----: |
+| 5      | 0.968  |
+| 10     | 0.798  |
+| 15     | 0.506  |
 
 
-|DC |      | dis |
-|:-:|      |:---:|
-| 5 |      |0.641|
-|10 |      |0.295|
-|15 |      |0.089|
+| DC     | dis    |
+| :----: | :----: |
+| 5      | 0.641  |
+| 10     | 0.295  |
+| 15     | 0.089  |
 
 
-|DC |      |norm |
-|:-:|      |:---:|
-| 5 |      |0.79 |
-|10 |      |0.568|
-|15 |      |0.298|
+| DC     | norm   |
+| :----: | :----: |
+| 5      | 0.79   |
+| 10     | 0.568  |
+| 15     | 0.298  |
 
 this is close enough to the expected estimation.
 
@@ -106,21 +106,21 @@ for this program, we wanted to create a
 for this program, we used conditions, one loop, and while. 
 				we could not think of a way to solve this with another 'for' loop.
 
--we first used an outer loop that takes care of the number of trials. 
+- we first used an outer loop that takes care of the number of trials. 
 				then, we used a 'while' loop. 
 					this loop will continue as long as success & failures below 3.
 if any of the two is 3, then this while loop will break. 
--then, we used a bunch of increments for 
+- then, we used a bunch of increments for 
 	deaths, successes, failures, & revives.
--for finalization, we just wrote the probabilities of deaths, 
+- for finalization, we just wrote the probabilities of deaths, 
 				stabilizations, & revives.
--lastly, we printed each of the probabilities.
+- lastly, we printed each of the probabilities.
 
 our result was:
 
-+die:       0.407
-+stabilize: 0.4103
-+revive:    0.1827
++ die:       0.407
++ stabilize: 0.4103
++ revive:    0.1827
 
 this is close enough to the expected estimation.
 
