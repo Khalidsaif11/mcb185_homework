@@ -118,5 +118,6 @@ stabilize 0.4103
 revive 0.1827
 
 this is close enough to the expected estimation.
-									**END**
+
+**END**
 ------------------------------------------------------
