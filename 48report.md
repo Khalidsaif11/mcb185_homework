@@ -45,7 +45,7 @@ this is close enough to the expected estimation. we use the <\t> in
 
 
 
-##Result of [46savingthrows.py](https://github.com/Khalidsaif11/mcb185_homework/blob/63efdad4f42013ea90d26c06c16cbe88a3221e27/46savingthrows.py)
+##Report of [46savingthrows.py](https://github.com/Khalidsaif11/mcb185_homework/blob/63efdad4f42013ea90d26c06c16cbe88a3221e27/46savingthrows.py)
 ==================================================
 
 for this program, we created a program that
@@ -91,7 +91,7 @@ DC      norm
 this is close enough to the expected estimation.
 
 
-##Result of [47deathsaves.py](https://github.com/Khalidsaif11/mcb185_homework/blob/63efdad4f42013ea90d26c06c16cbe88a3221e27/47deathsaves.py)
+##Report of [47deathsaves.py](https://github.com/Khalidsaif11/mcb185_homework/blob/63efdad4f42013ea90d26c06c16cbe88a3221e27/47deathsaves.py)
 ==================================================
 
 for this program, we wanted to create a 
