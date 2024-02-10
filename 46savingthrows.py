@@ -1,13 +1,11 @@
-#savingthrows.py by Khalid Saif co-authored with Ethan Djou
+#savingthrows.py by Khalid Saif co-authored with Ethan Djou & George Mo
 
 import random
-										#normal, advantage, disadvantage
 
+trials = 1000										#DC of 5, 10, & 15
 
-
-trials = 1000
-
-for i in range(5, 16, 5):							#advantage dc of 5,10,&15.
+print('DC\tadv')
+for i in range(5, 16, 5):							#advantage take highest
 	print(i, end='\t')
 	success = 0
 	for n in range(trials):
@@ -22,7 +20,9 @@ for i in range(5, 16, 5):							#advantage dc of 5,10,&15.
 	print(success / trials)
 print('\n')
 
-for i in range(5, 16, 5):							#disadvantage
+
+print('DC\tdis')
+for i in range(5, 16, 5):							#disadvantage take lowest
 	print(i, end='\t')
 	success = 0
 	for n in range(trials):
@@ -37,7 +37,9 @@ for i in range(5, 16, 5):							#disadvantage
 	print(success / trials)
 print('\n')
 
-for i in range(5, 16, 5):						#normal
+
+print('DC\tnorm')
+for i in range(5, 16, 5):							#normal
 	print(i, end='\t')
 	success = 0
 	for n in range(trials):
