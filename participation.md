@@ -18,11 +18,13 @@ Participation
 |:-:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---:|:--------
 | 5 |  4 |    | 1  | 2  |    |  1 |  1 | 1  |  10 | 1
 | 6 |  4 |    | 1  | 2  |    |  1 |  2 | 4  |  14 | 1
-| 7 | 
-| 8 | 
+| 7 |  4 |    | 1  | 2  |    |  1 |  1 | 2  |  11 | 1
+| 8 |  4 |    | 1  | 2  |    |  1 |    | 2  |  10 | 1
 | 9 |
 
 Notes:
 
 1. U5: Answered to a question the professor asked in class (OA).
 1. U6: Worked/coauthored with same students on a program, asked questions on discord, and answered questions on discord (OA)
+1. U7: Asked questions on discord, and answered questions on discord & worked with same students(OA)
+1. U8: Asked questions on discord, and answered questions on discord (OA)
